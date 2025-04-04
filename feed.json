@@ -4,18 +4,18 @@
   "lastUpdated": "2025-04-04T12:00:00+00:00",
   "series": [
     {
-      "title": "Temporada 1",
+      "title": "Beauty Business Brilliance 1",
       "videos": [
         {
           "title": "Episodio 1 - Belleza y Fe",
-          "url": "https://player.vimeo.com/external/TU_VIDEO1.mp4?s=TOKEN1",
+          "url": "https://player.vimeo.com/progressive_redirect/playback/1012439163/rendition/2160p/file.mp4?loc=external&log_user=0&signature=8d712d0cf519cfd05a17dadb24abd319ca659290eab789e0e6ca86caa23ac384",
           "thumbnail": "https://i.vimeocdn.com/video/THUMBNAIL1.jpg",
           "shortDescription": "Primer episodio sobre belleza interior y espiritual.",
           "releaseDate": "2025-03-01"
         },
         {
-          "title": "Episodio 2 - Maquillaje con Propósito",
-          "url": "https://player.vimeo.com/external/TU_VIDEO2.mp4?s=TOKEN2",
+          "title": "Discover Laser Magic 2",
+          "url": "https://player.vimeo.com/progressive_redirect/playback/987176065/rendition/2160p/file.mp4?loc=external&log_user=0&signature=032ba7b21829c4c672b98e3cc0e75ae7a6dfb2f4523c51f2514ff2a87d8364b0",
           "thumbnail": "https://i.vimeocdn.com/video/THUMBNAIL2.jpg",
           "shortDescription": "Una charla sobre cosméticos y autoestima.",
           "releaseDate": "2025-03-08"
@@ -27,14 +27,14 @@
       "videos": [
         {
           "title": "Episodio 1 - El poder del cuidado personal",
-          "url": "https://player.vimeo.com/external/TU_VIDEO3.mp4?s=TOKEN3",
+          "url": "https://player.vimeo.com/progressive_redirect/playback/1012439163/rendition/2160p/file.mp4?loc=external&log_user=0&signature=8d712d0cf519cfd05a17dadb24abd319ca659290eab789e0e6ca86caa23ac384",
           "thumbnail": "https://i.vimeocdn.com/video/THUMBNAIL3.jpg",
           "shortDescription": "La importancia del autocuidado diario.",
           "releaseDate": "2025-04-01"
         },
         {
           "title": "Episodio 2 - Belleza sin filtros",
-          "url": "https://player.vimeo.com/external/TU_VIDEO4.mp4?s=TOKEN4",
+          "url": "https://player.vimeo.com/progressive_redirect/playback/987176065/rendition/2160p/file.mp4?loc=external&log_user=0&signature=032ba7b21829c4c672b98e3cc0e75ae7a6dfb2f4523c51f2514ff2a87d8364b0",
           "thumbnail": "https://i.vimeocdn.com/video/THUMBNAIL4.jpg",
           "shortDescription": "Conversación real y sin edición.",
           "releaseDate": "2025-04-08"
